@@ -2,7 +2,7 @@
 
 Modern portfolio showcasing data analytics, web development, and BI projects.
 
-**🌐 Live:** [Portfolio Live]()
+**🌐 Live:** [Portfolio Live](https://avinash8303.github.io/Avinash-Profolio/)
 
 ## 📋 About
 
